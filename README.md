@@ -1,5 +1,5 @@
 # Portfolio
-# About Me
+## About Me
 
 - Skills
 - Education
