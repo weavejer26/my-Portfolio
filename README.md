@@ -1,2 +1,16 @@
-# my-Portfolio
-My personal portfolio 
+# Portfolio
+# About Me
+
+ Skills
+  *
+  *
+  *
+  *
+- Education
+  *
+- Tech/Tools
+  *
+  *
+  *
+  *
+  *
