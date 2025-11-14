@@ -1,16 +1,7 @@
 # Portfolio
 # About Me
 
- Skills
-  *
-  *
-  *
-  *
+- Skills
 - Education
-  *
+  
 - Tech/Tools
-  *
-  *
-  *
-  *
-  *
