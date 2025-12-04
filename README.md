@@ -1,15 +1,18 @@
 # Portfolio
 ## About Me
+
 ## Where to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/jeremy-weaver-bb7788388/)
 - weavejer26@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/jeremy-weaver-bb7788388/)
 
 ## Skills
 - Manual/Automation Testing
 - Bug Reporting
+- Test Plans
 - Test Cases
 - Databases
 - API's
+
 ## Software Tools
 - CSS/Expath
 - Git
@@ -23,6 +26,8 @@
 ## What I have worked on
 - [Automation Test](https://github.com/weavejer26/MTECH_Automation_2025)
 - [MTECH Capstone Project](https://github.com/weavejer26/MTECH_Automation_Capstone_2025)
+## Test Plan
+- [Capstone Project Test Plan](https://drive.google.com/file/d/14MUm5P7otdpSiWUY8XtuiEybgPo_IpOg/view?usp=sharing)
 ## Test Cases and Bug Reports
 - [Test Case 1](https://drive.google.com/file/d/1KZV4xmB3T_uPlYjRDU32aOCYjnk7saRi/view?usp=sharing)
 - [Test Case 2](https://drive.google.com/file/d/1kvRCoCJJBS_dvjXPMHPqidCnyZc3cwLa/view?usp=sharing)
