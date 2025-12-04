@@ -2,7 +2,7 @@
 ## About Me
 ## Where to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/jeremy-weaver-bb7788388/)
-- [Email](weavejer26@gmail.com)
+- Email: weavejer26@gmail.com
 
 ## Skills
 - Manual/Automation Testing
