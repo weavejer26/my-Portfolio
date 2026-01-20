@@ -25,8 +25,8 @@
 
 
 ## Certification
-- ![1000038500](https://github.com/user-attachments/assets/457c1f3e-e251-4149-9c19-04b93ea6d3cb)
-- ![1000038501](https://github.com/user-attachments/assets/20156351-c0ae-4be8-9ca5-b85fa80e96e3)
+![1000038500](https://github.com/user-attachments/assets/457c1f3e-e251-4149-9c19-04b93ea6d3cb)
+![1000038501](https://github.com/user-attachments/assets/20156351-c0ae-4be8-9ca5-b85fa80e96e3)
 
 
 ## What I have worked on
