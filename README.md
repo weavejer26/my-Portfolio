@@ -23,11 +23,21 @@
 - Jira
 - SQL
 
+
+## Certification
+- ![1000038500](https://github.com/user-attachments/assets/457c1f3e-e251-4149-9c19-04b93ea6d3cb)
+- ![1000038501](https://github.com/user-attachments/assets/20156351-c0ae-4be8-9ca5-b85fa80e96e3)
+
+
 ## What I have worked on
 - [Automation Test](https://github.com/weavejer26/MTECH_Automation_2025)
 - [MTECH Capstone Project](https://github.com/weavejer26/MTECH_Automation_Capstone_2025)
+
+
 ## Test Plan
 - [Capstone Project Test Plan](https://drive.google.com/file/d/14MUm5P7otdpSiWUY8XtuiEybgPo_IpOg/view?usp=sharing)
+
+
 ## Test Cases and Bug Reports
 - [Test Case 1](https://drive.google.com/file/d/1KZV4xmB3T_uPlYjRDU32aOCYjnk7saRi/view?usp=sharing)
 - [Test Case 2](https://drive.google.com/file/d/1kvRCoCJJBS_dvjXPMHPqidCnyZc3cwLa/view?usp=sharing)
